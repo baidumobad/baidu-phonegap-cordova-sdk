@@ -62,3 +62,6 @@ function isInterstitialReady( successCallback, failureCallback) <br/>
 xcode项目默认的是包括了armv7,armv7s,arm64的stand结构，需要改成 armv7,armv7s<br/>
 2.设置工程项目other linker flags<br/>
 Other Liner Flags 添加-lstdc++<br/>
+
+
+phonegap app开发者交流群 475496285
