@@ -7,6 +7,8 @@
 phonegap使用文档<br/>
 http://docs.phonegap.com/en/edge/guide_cli_index.md.html#The%20Command-line%20Interface  <br/>
 
+### 新版本已经更新至  https://github.com/baidumobad/baidu-ssp-phonegap-plugin 
+
 ###怎么安装phonegap 百度移动联盟插件?<br/>
 在命令行中输入<br/>
 cordova plugin add https://github.com/baidumobad/baidu-phonegap-cordova-sdk<br/>
